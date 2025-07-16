@@ -1,6 +1,6 @@
 package Aula03;
 
-public class AulaJava01 {
+public class AulaJava04 {
         public static void main(String[] args) {
 
                 int idade = 23;
